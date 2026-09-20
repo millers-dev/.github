@@ -1,51 +1,52 @@
+
 # millers.dev
 
-Tworzę aplikacje i narzędzia do konkretnych zadań. Tutaj pokazuję projekty, nad którymi pracuję — od dostępnych aplikacji po pomysły na wczesnym etapie.
+I build applications and tools for specific needs. Here, I showcase the projects I'm working on — from available applications to early-stage ideas.
 
-[Strona i portfolio](https://millers.dev) · [GitHub millers.dev](https://github.com/millers-dev) · [GitHub autora](https://github.com/peniakoff) · [Kontakt](mailto:kontakt@millers.dev)
+[Website and portfolio](https://millers.dev) · [millers.dev on GitHub](https://github.com/millers-dev) · [Author's GitHub](https://github.com/peniakoff) · [Contact](mailto:kontakt@millers.dev)
 
-## Projekty
+## Projects
 
 ### [Smart Sawmill](https://smartsawmill.app)
 
-Rozwijana aplikacja dla branży tartacznej, skupiona na organizacji zamówień, surowca i produkcji.
+An application in development for the sawmill industry, focused on organizing orders, raw materials, and production.
 
-**Etap:** projekt w rozwoju.  
-[Otwórz Smart Sawmill →](https://smartsawmill.app)
+**Status:** In development.  
+[Explore Smart Sawmill →](https://smartsawmill.app)
 
 ### [Carpenter’s Toolkit](https://4carpenters.smartsawmill.app)
 
-Kalkulatory i materiały pomocnicze do prac stolarskich i ciesielskich: geometria, obliczenia i planowanie materiałów. Dostępne w języku polskim, angielskim i niemieckim.
+Calculators and reference materials for woodworking and carpentry: geometry, calculations, and material planning. Available in Polish, English, and German.
 
-**Etap:** dostępne narzędzie.  
-[Przejdź do kalkulatorów →](https://4carpenters.smartsawmill.app)
+**Status:** Available.  
+[Explore the calculators →](https://4carpenters.smartsawmill.app)
 
 ### [Słowomierz](https://slowomierz.millers.dev)
 
-Narzędzie do organizacji klas, analizy wyników diagnoz edukacyjnych i przygotowywania krótkich informacji zwrotnych. Dane klas i wyniki są zapisywane lokalnie w przeglądarce, bez zakładania konta.
+A tool for organizing classes, analyzing educational assessment results, and preparing concise feedback. Class data and results are stored locally in the browser, with no account required.
 
-**Etap:** dostępne narzędzie.  
-[Otwórz Słowomierz →](https://slowomierz.millers.dev)
+**Status:** Available.  
+[Explore Słowomierz →](https://slowomierz.millers.dev)
 
 ### [FastBuyJSON](https://github.com/millers-dev/fast-buy-json)
 
-Pomysł na komunikację agentów AI z API e-commerce za pomocą JSON. Publiczne repozytorium zawiera obecnie opis koncepcji i licencję; implementacja nie jest jeszcze udostępniona.
+A concept for communication between AI agents and e-commerce APIs using JSON. The public repository currently contains a description of the concept and a license; the implementation has not yet been released.
 
-**Etap:** koncepcja / zalążek projektu.  
-[Zobacz repozytorium →](https://github.com/millers-dev/fast-buy-json)
+**Status:** Concept / early-stage project.  
+[View repository →](https://github.com/millers-dev/fast-buy-json)
 
-## O autorze
+## About the Author
 
-Nazywam się Tomasz Miller. Pod nazwą **millers.dev** prezentuję swoje portfolio i rozwijane projekty. Obecnie działam w ramach działalności nierejestrowanej.
+My name is Tomasz Miller. Under the **millers.dev** name, I showcase my portfolio and projects in development. I currently operate as an unregistered business under Polish law.
 
-Moje prywatne konto na GitHubie to [@peniakoff](https://github.com/peniakoff). Organizacja [millers-dev](https://github.com/millers-dev) jest miejscem dla projektów prezentowanych pod marką millers.dev.
+My personal GitHub account is [@peniakoff](https://github.com/peniakoff). The [millers-dev](https://github.com/millers-dev) organization is home to projects presented under the millers.dev name.
 
-Interesują mnie praktyczne zastosowania oprogramowania: porządkowanie codziennej pracy, przydatne obliczenia i narzędzia, które można sprawdzić samodzielnie.
+I'm interested in practical applications of software: streamlining everyday work, useful calculations, and tools that anyone can try out for themselves.
 
-## Kontakt
+## Contact
 
-Pytanie o projekt, pomysł lub uwaga po wypróbowaniu narzędzia? Napisz na [kontakt@millers.dev](mailto:kontakt@millers.dev).
+Have a question about a project, an idea, or feedback after trying one of the tools? Get in touch at [kontakt@millers.dev](mailto:kontakt@millers.dev).
 
 ---
 
-*Statusy projektów zaktualizowano 20 września 2026 r. Zasady korzystania i licencje należy sprawdzać osobno dla każdego projektu.*
+*Project statuses last updated on September 20, 2026. Check each project's terms of use and licenses separately.*
